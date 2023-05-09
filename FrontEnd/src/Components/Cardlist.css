@@ -1,0 +1,6 @@
+.sayed{
+	width: 100%;
+	display: grid;
+    grid-template-columns: repeat(5, 1fr); /* two columns */
+    grid-gap: 10px;
+}
